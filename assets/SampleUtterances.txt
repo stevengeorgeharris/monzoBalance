@@ -1,0 +1,4 @@
+GetBalance what is my balance
+GetBalance tell me my balance
+
+GetLatestTran tell me my latest transactions
